@@ -1,4 +1,8 @@
-# Projeto Apto Garden
+# **Projeto APTOGarden - Projeto de Desenvolvimento WEB I (UPM)**
 
-Olá! Este é o Projeto Apto Garden.
 
+Projeto da matéria de Desenvolvimento WEB I - Universidade Presbiteriana Mackenzie.
+
+---
+
+## Descrição
