@@ -1,2 +1,4 @@
-# aptoGarden
-Repositório referente ao projeto AptoGarden de desenvolvimento web.
+# Projeto Apto Garden
+
+Olá! Este é o Projeto Apto Garden.
+
